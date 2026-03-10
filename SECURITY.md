@@ -3,7 +3,7 @@
 ## How to report a security vulnerability
 
 If you believe that you have discovered a security vulnerability in our open source software,
-  please report it to us using the [GitHub private vulnerability feature](https://docs.github.com/en/code-security/security-advisories/working-with-repository-security-advisories/creating-a-repository-security-advisory).
+  please report it to us using the [GitHub private vulnerability feature](https://docs.github.com/en/code-security/how-tos/report-and-fix-vulnerabilities/privately-reporting-a-security-vulnerability).
 This can be done by navigating to the "Security" tab of the specific repository where you found the issue.
 For other Apple software, please report a security or privacy vulnerability on [Apple Security Research](https://security.apple.com/).
 
