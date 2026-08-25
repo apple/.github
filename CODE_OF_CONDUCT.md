@@ -17,6 +17,7 @@ include:
 * Using welcoming and inclusive language
 * Being respectful of differing viewpoints and experiences
 * Gracefully accepting constructive criticism
+* Engaging genuinely with others in your communication and contributions
 * Focusing on what is best for the community
 * Showing empathy towards other community members
 
@@ -28,6 +29,7 @@ Examples of unacceptable behavior by participants include:
 * Public or private harassment
 * Publishing others' private information, such as a physical or electronic
   address, without explicit permission
+* Spam and repetitive low-quality contributions
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
